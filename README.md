@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/24839815/127751238-f871dd81-5488-4c62-8919-c470ccdbb55b.PNG)
 # ProcessKiller
 A python script that uses the WinAPI to find and terminate the requested process
 
