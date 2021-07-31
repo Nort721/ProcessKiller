@@ -2,8 +2,6 @@ import ctypes
 
 print("Process-Killer Build 1 By Nort721\n")
 
-percentage = "0%"
-
 user_handle = ctypes.WinDLL("User32.dll")
 kernel_handle = ctypes.WinDLL("Kernel32.dll")
 
